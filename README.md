@@ -177,29 +177,6 @@ Use Android Studio to open the project in directory **flamingoAndroid/** and bui
 
 
 
-#### Change Log
-
-I am afraid that I can not maintain Flamingo in regular intervals because I am very busy with my own work. But I promise that I am going to maintain Flamingo continually.
-
-Change Log see here: 
-
-https://github.com/baloonwj/flamingo/issues/1
-
-
-
-#### BUG Report
-
-If you have any questions, you can contact with me by sending email to balloonwj@qq.com. Also, you can report any bugs in the BUG Report Page, its link is https://github.com/baloonwj/flamingo/issues/5.
-
-I promise that fatal problem of Flamingo, such as crashing or halting will be solved in three weekdays and other questions that are not severe will be responsed in two weeks.
-
-
-
-#### Contact
-
-At last not the least, if you have any suggestions or good advice, welcome to contact with me. China Mainland users can contact with me by joining in my QQ group(**729995516**) or linking my public webchat account(『**easyserverdev**』).  Also you can send me emails,  my email address is **balloonwj@qq.com**. I am waiting for You sincerely.
-
-
 ### flamingo
 
 #### 介绍
@@ -358,33 +335,6 @@ flamingo IM是一款高性能、轻量级的开源即时通讯软件，目前包
 ####     安卓客户端编译和安装
 
 用Android Studio打开**flamingoAndroid/**目录下的安卓工程，编译产生相应的flamingo.apk文件，安装至安卓手机即可使用。与服务器的连接设置，在安卓版本的登陆界面的服务器设置中。
-
-
-
-#### 更新日志
-
-由于平常工作比较忙，不能固定周期地更新flamingo，但我保证我会一直维护下去。更新日志请参见：
-
-https://github.com/baloonwj/flamingo/issues/1
-
-
-
-#### BUG反馈
-
-如果您在使用的过程中发现任何bug，可以给我发邮件：balloonwj@qq.com，也可以去bug反馈页面进行反馈：
-
-https://github.com/baloonwj/flamingo/issues/5。
-
-凡是涉及到崩溃、死机等影响使用的重大bug，我将在三个工作日内予以解决；其他不影响使用的功能性bug，两个星期内解决。
-
-
-
-#### 联系方式
-
-如果您在使用这个项目的过程中遇到任何问题，或者您对我的项目有任何意见或者建议，再或者有不错的想法欢迎与我交流，可以通过我的微信公众号『**easyserverdev**』与我取得联系，或者可以给我发邮件：**balloonwj@qq.com**，您也可以加入QQ技术群进行交流讨论：**729995516**。
-
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/articlelognew.jpg)
-
 
 
 #### Features Snapshot Below：
