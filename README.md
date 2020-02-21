@@ -337,28 +337,4 @@ flamingo IM是一款高性能、轻量级的开源即时通讯软件，目前包
 用Android Studio打开**flamingoAndroid/**目录下的安卓工程，编译产生相应的flamingo.apk文件，安装至安卓手机即可使用。与服务器的连接设置，在安卓版本的登陆界面的服务器设置中。
 
 
-#### Features Snapshot Below：
-
-#### 以下是部分功能截图：
-
-##### pc版截图
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/1.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/2.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/3.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/4.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/5.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/6.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/7.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/8.png)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/9.png)
-
-##### Android Version Snapshot
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m1.jpg)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m2.jpg)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m3.jpg)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m4.jpg)
-![flamingo Snapshot](http://www.hootina.org/github_flamingo_imgs/m5.jpg)
-
-
-
 
